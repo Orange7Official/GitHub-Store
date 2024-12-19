@@ -10,4 +10,4 @@ Requirements:
 - Python 3.8+
 - Node.js 16+
 
-This is the first version in the `v0.x-alpha` tag, introducing basic installation functionality.
+This is the first version in the `v0.0.x` tag and the `v0.x-alpha` tag.
